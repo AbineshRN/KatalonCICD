@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_SignIn</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0234edcd-a7cb-46f7-82a5-c39c2fdd59cc</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9abffa8f-76bf-4598-ab80-77ab1289486d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b0c0380f-1bcd-4edd-9132-890379df2fb0</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Include/Data Files/login_data.json'</defaultValue>
+      <description></description>
+      <id>9abffa8f-76bf-4598-ab80-77ab1289486d</id>
+      <masked>false</masked>
+      <name>filepath</name>
+   </variable>
+   <variable>
+      <defaultValue>'loginPage'</defaultValue>
+      <description></description>
+      <id>b0c0380f-1bcd-4edd-9132-890379df2fb0</id>
+      <masked>false</masked>
+      <name>section</name>
+   </variable>
+</TestCaseEntity>

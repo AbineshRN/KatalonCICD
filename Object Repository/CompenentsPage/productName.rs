@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>productName</name>
+   <tag></tag>
+   <elementGuidId>1d7839c1-1e27-4246-aaf8-839a17d61951</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='$122.00'])[3]/preceding::a[1]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@href = 'https://ecommerce-playground.lambdatest.io/index.php?route=product/product&amp;product_id=47' and (text() = 'HP LP3065' or . = 'HP LP3065')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;HP LP3065&quot;i] >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>93091d3f-4d5a-48f4-a758-571f92c6d48e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-ellipsis-2</value>
+      <webElementGuid>2c4077cc-b3f2-472e-ba3f-fff259c1e315</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://ecommerce-playground.lambdatest.io/index.php?route=product/product&amp;product_id=47</value>
+      <webElementGuid>a59b65e3-9933-4865-af8d-03f7e1def2c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>HP LP3065</value>
+      <webElementGuid>d608bbb7-07d4-4309-bf36-39fb5a8098b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;entry_212408&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;product-layout product-grid no-desc col-xl-4 col-lg-4 col-md-4 col-sm-6 col-6&quot;]/div[@class=&quot;product-thumb&quot;]/div[@class=&quot;caption&quot;]/h4[@class=&quot;title&quot;]/a[@class=&quot;text-ellipsis-2&quot;]</value>
+      <webElementGuid>2a76dd15-f242-4b38-af68-6dc2119b4e64</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='entry_212408']/div/div[4]/div/div[2]/h4/a</value>
+      <webElementGuid>129eff6e-4935-4fe7-b2ef-4ce3149b1571</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'HP LP3065')]</value>
+      <webElementGuid>ce884ae0-c508-441e-91e7-86889e3c50ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to Wish List'])[4]/following::a[1]</value>
+      <webElementGuid>b5242ffd-2394-4c00-8723-282bc7599f33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to Cart'])[4]/following::a[1]</value>
+      <webElementGuid>9accf705-1cac-46e9-949b-c743b6bc1391</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$122.00'])[3]/preceding::a[1]</value>
+      <webElementGuid>57c36143-a088-446d-87bf-f180d84aef80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to Cart'])[5]/preceding::a[3]</value>
+      <webElementGuid>3ad993b2-0d24-43ae-b99a-065fdc11ca60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='HP LP3065']/parent::*</value>
+      <webElementGuid>7150e58f-89ce-4879-b3eb-0d178629bde0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://ecommerce-playground.lambdatest.io/index.php?route=product/product&amp;product_id=47')])[2]</value>
+      <webElementGuid>657727de-86be-4b3e-81ce-0dfa059d62b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div[2]/h4/a</value>
+      <webElementGuid>f7409e6a-359c-43d9-b1d0-0fecc39bfe86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://ecommerce-playground.lambdatest.io/index.php?route=product/product&amp;product_id=47' and (text() = 'HP LP3065' or . = 'HP LP3065')]</value>
+      <webElementGuid>f22382c0-2167-417e-bd79-2b036728768f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>register_Button</name>
+   <tag></tag>
+   <elementGuidId>e8532360-3e2d-49f2-a92e-b598f4cdeda5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>ul.mz-sub-menu-96.dropdown-menu.show > li:nth-of-type(2) > a.icon-left.both.dropdown-item > div.info > span.title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[contains(text(),'Register')]&#xd;
+</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = ' Register
+' or . = ' Register
+')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Register&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>519e4e0e-5cdf-4748-bc12-f6374be33dda</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>title</value>
+      <webElementGuid>41fd6ba1-7344-4f73-945e-f4e075f4b25e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Register
+</value>
+      <webElementGuid>1f7ca521-aad7-4d58-995a-e3b185f59da5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;widget-navbar-217834&quot;)/ul[@class=&quot;navbar-nav horizontal&quot;]/li[@class=&quot;nav-item dropdown dropdown-hoverable show&quot;]/ul[@class=&quot;mz-sub-menu-96 dropdown-menu show&quot;]/li[2]/a[@class=&quot;icon-left both dropdown-item&quot;]/div[@class=&quot;info&quot;]/span[@class=&quot;title&quot;]</value>
+      <webElementGuid>9cba266d-d78a-4b5f-b243-661a0975fda5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='widget-navbar-217834']/ul/li[6]/ul/li[2]/a/div/span</value>
+      <webElementGuid>daf833cb-d287-407e-bede-f864c883de1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/following::span[1]</value>
+      <webElementGuid>a1090fb3-2d40-4e2d-b2d4-b43ad1378753</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My account'])[2]/following::span[2]</value>
+      <webElementGuid>69d19bf4-2426-41f4-b265-6052f12736ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All Categories'])[3]/preceding::span[1]</value>
+      <webElementGuid>b3753c57-8bba-4466-ac76-ea2081c849d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='This is a dummy website for Web Automation Testing'])[1]/preceding::span[1]</value>
+      <webElementGuid>9609b340-87fb-420e-b960-8ad90cd48e93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Register']/parent::*</value>
+      <webElementGuid>1575243a-cde2-47ba-b088-421f34df4682</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/ul/li[2]/a/div/span</value>
+      <webElementGuid>212034b9-5603-4561-b7b1-9b0a9846e2a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[contains(text(),'Register')]&quot;&#xd;
+</value>
+      <webElementGuid>a7614eac-433f-41a0-a1fa-e1d1e13d3208</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

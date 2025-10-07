@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>privacyPolicyCheckbox</name>
+   <tag></tag>
+   <elementGuidId>dc03281c-eda2-4d35-98e9-7b8a7a4109e8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='form-checkout']/div/div[2]/div/div[5]/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;I have read and agree to the Terms &amp; Conditions&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>c97c5672-0635-4447-977d-8ba43e2bff7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>custom-control-label</value>
+      <webElementGuid>8cc465a9-c3c0-431d-ab55-ab8441229521</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>input-agree</value>
+      <webElementGuid>fff18d0c-2bb1-41e7-ae01-117b2d541046</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>I have read and agree to the Terms &amp; Conditions</value>
+      <webElementGuid>e654e964-f24d-4e04-84bc-b0b5ffd3e6f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form-checkout&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-7 mb-5 mb-lg-0&quot;]/div[@class=&quot;sticky-top&quot;]/div[@class=&quot;custom-control custom-checkbox&quot;]/label[@class=&quot;custom-control-label&quot;]</value>
+      <webElementGuid>afe229a3-a142-49cb-9f65-27ac5bd2c109</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form-checkout']/div/div[2]/div/div[5]/label</value>
+      <webElementGuid>97c4b64d-fc74-4cdd-9037-a0e6c2e7fdac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Privacy Policy'])[1]/following::label[1]</value>
+      <webElementGuid>2caeb1f5-27a5-4976-9076-1be18563c4ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/preceding::label[1]</value>
+      <webElementGuid>7e978b56-4e18-4864-b830-30339fa22cd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[5]/label</value>
+      <webElementGuid>17423bf6-a1db-470e-bac3-8e2339a4bb41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'I have read and agree to the Terms &amp; Conditions' or . = 'I have read and agree to the Terms &amp; Conditions')]</value>
+      <webElementGuid>b91cb3a0-6d76-443b-a6b9-acd17a90969f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

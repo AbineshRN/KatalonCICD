@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This testcase checks the functionality of product return</description>
+   <name>TC_ProductReturn</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7f21e9a7-674c-44c0-8c21-c8a25f1e7a69</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>83dd3939-3ee9-4a4f-88ba-56ac194bba97</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>974052f0-37e5-4e61-a447-be218a6ac4a6</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Include/Data Files/login_data.json'</defaultValue>
+      <description></description>
+      <id>83dd3939-3ee9-4a4f-88ba-56ac194bba97</id>
+      <masked>false</masked>
+      <name>filepath</name>
+   </variable>
+   <variable>
+      <defaultValue>'ProductReturnPage'</defaultValue>
+      <description></description>
+      <id>974052f0-37e5-4e61-a447-be218a6ac4a6</id>
+      <masked>false</masked>
+      <name>section</name>
+   </variable>
+</TestCaseEntity>

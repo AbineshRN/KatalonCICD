@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Article</name>
+   <tag></tag>
+   <elementGuidId>1adf1838-e171-4f60-ad4c-5dc2fc64f9e9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'amet volutpat consequat mauris nunc congue nisi vitae suscipit tellus')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.text-ellipsis-2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#swiper-wrapper-dabe1b76948c7009 >> internal:label=&quot;1 / 10&quot;i >> internal:text=&quot;amet volutpat consequat mauris nunc congue nisi vitae suscipit tellus&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4c1e525e-24c4-499f-beab-f3103382f1cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-ellipsis-2</value>
+      <webElementGuid>fc627128-28d7-41d1-8797-c562092e1cf8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://ecommerce-playground.lambdatest.io/index.php?route=extension/maza/blog/article&amp;article_id=37</value>
+      <webElementGuid>c3b48810-80bc-4aed-b452-be2c81f2a703</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>amet volutpat consequat mauris nunc congue nisi vitae suscipit tellus</value>
+      <webElementGuid>129f5b79-36b5-41d6-af3b-a9b214abb14a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;swiper-wrapper-dabe1b76948c7009&quot;)/div[@class=&quot;swiper-slide swiper-slide-active&quot;]/div[@class=&quot;article-thumb image-top&quot;]/div[@class=&quot;caption&quot;]/h4[@class=&quot;title&quot;]/a[@class=&quot;text-ellipsis-2&quot;]</value>
+      <webElementGuid>c7128f0f-f500-4ef5-b201-1442b3ff03a5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='swiper-wrapper-dabe1b76948c7009']/div/div/div[2]/h4/a</value>
+      <webElementGuid>6890accd-980b-4774-b8b4-27aa903e61be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'amet volutpat consequat mauris nunc congue nisi vitae suscipit tellus')]</value>
+      <webElementGuid>bb82f04f-6437-43c6-a4d8-e317fa865511</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='comments'])[1]/following::a[1]</value>
+      <webElementGuid>7486f30e-6941-4fda-96cb-5857c1d2c6b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mark Jecno'])[1]/following::a[1]</value>
+      <webElementGuid>b653dfaa-b93c-48bd-8679-56062d627ecd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jolio Balia'])[1]/preceding::a[2]</value>
+      <webElementGuid>61ba5163-9ea1-44f7-849d-9a5a16ba00f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='comments'])[2]/preceding::a[3]</value>
+      <webElementGuid>dd307112-0106-431f-bbff-5f5dc0f20fac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='amet volutpat consequat mauris nunc congue nisi vitae suscipit tellus']/parent::*</value>
+      <webElementGuid>c515cbd9-ccf0-4a35-a2ae-568802a88150</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://ecommerce-playground.lambdatest.io/index.php?route=extension/maza/blog/article&amp;article_id=37')])[2]</value>
+      <webElementGuid>6685bb43-81a1-4e30-a5f3-b0de34586bcf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h4/a</value>
+      <webElementGuid>2e3fc07a-e7be-4f4d-bfd7-16855b32195b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://ecommerce-playground.lambdatest.io/index.php?route=extension/maza/blog/article&amp;article_id=37' and (text() = 'amet volutpat consequat mauris nunc congue nisi vitae suscipit tellus' or . = 'amet volutpat consequat mauris nunc congue nisi vitae suscipit tellus')]</value>
+      <webElementGuid>31448f8e-dbaa-4c21-a09d-028607a2891a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

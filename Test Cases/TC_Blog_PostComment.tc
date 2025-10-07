@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This testcase checks the functionality of posting a comment in blog section</description>
+   <name>TC_Blog_PostComment</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4b96f016-ba76-46b6-9e51-6b94d8d88a28</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6967210b-ef28-48be-a4c6-5c55ab3fcf1e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d2d6dc56-1d16-4837-8119-8cc1b0c1698c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Include/Data Files/login_data.json'</defaultValue>
+      <description></description>
+      <id>6967210b-ef28-48be-a4c6-5c55ab3fcf1e</id>
+      <masked>false</masked>
+      <name>filepath</name>
+   </variable>
+   <variable>
+      <defaultValue>'ArticlePage'</defaultValue>
+      <description></description>
+      <id>d2d6dc56-1d16-4837-8119-8cc1b0c1698c</id>
+      <masked>false</masked>
+      <name>section</name>
+   </variable>
+</TestCaseEntity>

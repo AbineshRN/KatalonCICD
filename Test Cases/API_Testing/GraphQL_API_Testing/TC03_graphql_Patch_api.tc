@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC03_graphql_Patch_api</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bf9a8e6b-7345-4064-9779-83cd78b4c087</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0903080c-49f2-47f8-975a-b0d4f1f78afe</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5dd93338-269d-4cf0-b941-0bb11daf32a7</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>65e4af93-673b-4171-8aa8-f689bf9a2a6d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'graphQL'</defaultValue>
+      <description></description>
+      <id>0903080c-49f2-47f8-975a-b0d4f1f78afe</id>
+      <masked>false</masked>
+      <name>graphQL</name>
+   </variable>
+   <variable>
+      <defaultValue>'apiBaseUrl'</defaultValue>
+      <description></description>
+      <id>5dd93338-269d-4cf0-b941-0bb11daf32a7</id>
+      <masked>false</masked>
+      <name>apiBaseUrl</name>
+   </variable>
+   <variable>
+      <defaultValue>'Include/Data Files/MasterSchema.json'</defaultValue>
+      <description></description>
+      <id>65e4af93-673b-4171-8aa8-f689bf9a2a6d</id>
+      <masked>false</masked>
+      <name>schemaFilePath</name>
+   </variable>
+</TestCaseEntity>

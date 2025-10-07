@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC05_RefereshAccessToken_Api</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fbcf706a-62b7-43fc-b0cb-006e67681a1d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>05e88791-e77b-498d-8dd0-c0afe99f1564</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8ce94634-fa75-42be-803a-09d7b7a60ec9</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b993fc45-35a9-4712-98c5-d185430a2510</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Include/Data Files/login_data.json'</defaultValue>
+      <description></description>
+      <id>05e88791-e77b-498d-8dd0-c0afe99f1564</id>
+      <masked>false</masked>
+      <name>jsonFilePath</name>
+   </variable>
+   <variable>
+      <defaultValue>'accessTokenUrl'</defaultValue>
+      <description></description>
+      <id>8ce94634-fa75-42be-803a-09d7b7a60ec9</id>
+      <masked>false</masked>
+      <name>accessToken</name>
+   </variable>
+   <variable>
+      <defaultValue>'apiBaseUrl'</defaultValue>
+      <description></description>
+      <id>b993fc45-35a9-4712-98c5-d185430a2510</id>
+      <masked>false</masked>
+      <name>apiBaseUrl</name>
+   </variable>
+</TestCaseEntity>

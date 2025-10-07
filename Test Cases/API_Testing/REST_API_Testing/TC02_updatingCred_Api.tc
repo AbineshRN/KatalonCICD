@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02_updatingCred_Api</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9e75fff0-c390-461d-92b7-eb2d600f1c76</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>698a62fc-3882-4139-a2cf-accc789dbb22</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>29577d49-e424-4bf5-83d7-9aa52013c995</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9228ad4a-6208-4421-bbb6-f3246b37de3e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6acf17c2-9dba-453e-9706-b8c76c2abc34</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Include/Data Files/login_data.json'</defaultValue>
+      <description></description>
+      <id>698a62fc-3882-4139-a2cf-accc789dbb22</id>
+      <masked>false</masked>
+      <name>jsonFilePath</name>
+   </variable>
+   <variable>
+      <defaultValue>'Include/Data Files/MasterSchema.json'</defaultValue>
+      <description></description>
+      <id>29577d49-e424-4bf5-83d7-9aa52013c995</id>
+      <masked>false</masked>
+      <name>schemaFilePath</name>
+   </variable>
+   <variable>
+      <defaultValue>'apiTesting'</defaultValue>
+      <description></description>
+      <id>9228ad4a-6208-4421-bbb6-f3246b37de3e</id>
+      <masked>false</masked>
+      <name>apiTesting</name>
+   </variable>
+   <variable>
+      <defaultValue>'apiBaseUrl'</defaultValue>
+      <description></description>
+      <id>6acf17c2-9dba-453e-9706-b8c76c2abc34</id>
+      <masked>false</masked>
+      <name>apiBaseUrl</name>
+   </variable>
+</TestCaseEntity>

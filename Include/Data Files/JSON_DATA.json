@@ -1,0 +1,149 @@
+{
+    "registerPage": {
+        "firstName": "Alice",
+        "lastName": "Smithh",
+        "email": "alicesmith.40@gmail.com",
+        "telephone": "1234567890",
+        "password": "Password123",
+        "successMessage": "Your Account Has Been Created!"
+    },
+    "registrarionSucccessPage": {
+        "verify_Text": "Your Account Has Been Created!"
+    },
+    "loginPage": {
+        "email": "alicesmith.38@gmail.com",
+        "password": "Password@123",
+        "verification_text": "My Account"
+    },
+    "CartPage": {
+        "firstName": "Alice",
+        "lastName": "Smithh",
+        "address": "11,Wesley's Road",
+        "city": "Blackburn",
+        "postalCode": "BB1 1AB"
+    },
+    "OrderPlacedPage": {
+        "verifyText": "Your order has been placed!"
+    },
+    "ArticlePage": {
+        "name": "Amal",
+        "email": "amal@gmail.com",
+        "comment": "This comment is to ensure that this testcase is currently running",
+        "successMessage": "Thank you for your comment. It has been submitted to the webmaster for approval."
+    },
+    "changePasswordPage": {
+        "password": "Password@123",
+        "confirmPassword": "Password@123",
+        "verifyText": "Success: Your password has been successfully updated."
+    },
+    "ProductReturnPage": {
+        "verifyText": "Product Returns"
+    },
+    "postBody": {
+        "userId": 1,
+        "title": "Abinesh",
+        "body": "Updated body content"
+    },
+    "putBody": {
+        "userId": 2,
+        "title": "Vignesh",
+        "body": "body content"
+    },
+    "patchBody": {
+        "title": "patched title"
+    },
+    "dependencyMap": {
+        "TC_ChangePassword": "TC_SignIn",
+        "TC_ProductReturn": "TC_SignIn",
+        "TC_AddToCart": "TC_SignIn",
+        "TC_SignIn": "TC_UserRegistration"
+    },
+    "executionStatus": {
+        "TC_SignIn": "PASSED",
+        "TC_UserRegistration": "PASSED"
+    },
+    "modifying data": {
+        "title": "modified title"
+    },
+    "getData": {
+        "userId": 1,
+        "id": 1,
+        "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+        "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+    },
+    "postPayload": {
+        "username": "emilys",
+        "password": "emilyspass",
+        "expiresInMins": 30
+    },
+    "DummyJson": {
+        "invalidToken": "qwertyuiosdfghjklzxcvbnm"
+    },
+    "graphQL_getPost": {
+        "method": "GRAPHQL",
+        "operationType": "query",
+        "operationName": "GetPost",
+        "parameters": {
+            "id": "ID!"
+        },
+        "body": "post(id: $id) { id title body }",
+        "variables": {
+            "id": 1
+        },
+        "headers": {
+            "Content-Type": "application/json"
+        }
+    },
+    "graphQL_createPost": {
+        "method": "GRAPHQL",
+        "operationType": "mutation",
+        "operationName": "CreatePost",
+        "parameters": {
+            "input": "CreatePostInput!"
+        },
+        "body": "createPost(input: $input) { id title body }",
+        "variables": {
+            "input": {
+                "title": "New Post Title",
+                "body": "New Post Body"
+            }
+        },
+        "headers": {
+            "Content-Type": "application/json"
+        }
+    },
+    "graphQL_updatePost": {
+        "method": "GRAPHQL",
+        "operationType": "mutation",
+        "operationName": "UpdatePost",
+        "parameters": {
+            "id": "ID!",
+            "input": "UpdatePostInput!"
+        },
+        "body": "updatePost(id: $id, input: $input) { id title }",
+        "variables": {
+            "id": 1,
+            "input": {
+                "title": "Patch modified title"
+            }
+        },
+        "headers": {
+            "Content-Type": "application/json"
+        }
+    },
+    "graphQL_deletePost": {
+        "method": "GRAPHQL",
+        "operationType": "mutation",
+        "operationName": "DeletePost",
+        "parameters": {
+            "id": "ID!"
+        },
+        "body": "deletePost(id: $id)",
+        "variables": {
+            "id": 1
+        },
+        "headers": {
+            "Content-Type": "application/json"
+        }
+    }
+}

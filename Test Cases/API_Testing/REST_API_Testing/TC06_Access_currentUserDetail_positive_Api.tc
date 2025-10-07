@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC06_Access_currentUserDetail_positive_Api</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1341bb9f-138b-4744-beb9-ad4d6e4c995d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>86828e4c-8475-45c7-aa09-63a83884329a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9ad92343-beb6-4e1e-abb1-5d8a0f7c2f7c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d30b2848-7f7e-4dff-9452-dffacfd8397c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Include/Data Files/login_data.json'</defaultValue>
+      <description></description>
+      <id>86828e4c-8475-45c7-aa09-63a83884329a</id>
+      <masked>false</masked>
+      <name>jsonFilePath</name>
+   </variable>
+   <variable>
+      <defaultValue>'accessTokenUrl'</defaultValue>
+      <description></description>
+      <id>9ad92343-beb6-4e1e-abb1-5d8a0f7c2f7c</id>
+      <masked>false</masked>
+      <name>accessTokenUrl</name>
+   </variable>
+   <variable>
+      <defaultValue>'apiBaseUrl'</defaultValue>
+      <description></description>
+      <id>d30b2848-7f7e-4dff-9452-dffacfd8397c</id>
+      <masked>false</masked>
+      <name>apiBaseUrl</name>
+   </variable>
+</TestCaseEntity>

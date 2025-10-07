@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_UserRegistration</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>eb42b868-f106-46ee-b3ab-b6497771d68e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7e2f9cac-9926-410d-8788-5c57a923e1d7</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fb1b728d-3ca0-463a-8f8c-07733db7575b</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1682ecce-1e0c-4ae2-bd6c-83fe69d0768d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Include/Data Files/login_data.json'</defaultValue>
+      <description></description>
+      <id>7e2f9cac-9926-410d-8788-5c57a923e1d7</id>
+      <masked>false</masked>
+      <name>filepath</name>
+   </variable>
+   <variable>
+      <defaultValue>'registerPage'</defaultValue>
+      <description></description>
+      <id>fb1b728d-3ca0-463a-8f8c-07733db7575b</id>
+      <masked>false</masked>
+      <name>registerPage</name>
+   </variable>
+   <variable>
+      <defaultValue>'registrarionSucccessPage'</defaultValue>
+      <description></description>
+      <id>1682ecce-1e0c-4ae2-bd6c-83fe69d0768d</id>
+      <masked>false</masked>
+      <name>registrationSuccessPage</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This testcase checks the functionality of add to cart functionality</description>
+   <name>TC_AddToCart</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9b2699f7-e012-498e-bce7-5a653ccf0225</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ae054e76-1947-48ef-8628-d237a107be1c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>cb3e9a20-d86a-4936-abf2-958fdd8395c8</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>966fea60-7d65-41cd-849f-1daf167a5ce8</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>084b9421-d588-49ad-9d1f-14cd0200c377</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Include/Data Files/login_data.json'</defaultValue>
+      <description></description>
+      <id>ae054e76-1947-48ef-8628-d237a107be1c</id>
+      <masked>false</masked>
+      <name>filepath</name>
+   </variable>
+   <variable>
+      <defaultValue>'CartPage'</defaultValue>
+      <description></description>
+      <id>cb3e9a20-d86a-4936-abf2-958fdd8395c8</id>
+      <masked>false</masked>
+      <name>cartPage</name>
+   </variable>
+   <variable>
+      <defaultValue>'OrderPlacedPage'</defaultValue>
+      <description></description>
+      <id>966fea60-7d65-41cd-849f-1daf167a5ce8</id>
+      <masked>false</masked>
+      <name>orderPlacedPage</name>
+   </variable>
+   <variable>
+      <defaultValue>' Components'</defaultValue>
+      <description></description>
+      <id>084b9421-d588-49ad-9d1f-14cd0200c377</id>
+      <masked>false</masked>
+      <name>categoryOption</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC04_graphql_Delete_api</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1cc97242-1c49-4be2-b018-d5d17f9fbfce</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c653cdec-9ed9-4510-b401-a3eb6017abe8</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d5670783-7308-4ed9-8a07-f8e870ecd457</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>77653f17-0966-4cb3-8140-39ba0d31ce66</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'graphQL'</defaultValue>
+      <description></description>
+      <id>c653cdec-9ed9-4510-b401-a3eb6017abe8</id>
+      <masked>false</masked>
+      <name>graphQL</name>
+   </variable>
+   <variable>
+      <defaultValue>'apiBaseUrl'</defaultValue>
+      <description></description>
+      <id>d5670783-7308-4ed9-8a07-f8e870ecd457</id>
+      <masked>false</masked>
+      <name>apiBaseUrl</name>
+   </variable>
+   <variable>
+      <defaultValue>'Include/Data Files/login_data.json'</defaultValue>
+      <description></description>
+      <id>77653f17-0966-4cb3-8140-39ba0d31ce66</id>
+      <masked>false</masked>
+      <name>JsonFilePath</name>
+   </variable>
+</TestCaseEntity>

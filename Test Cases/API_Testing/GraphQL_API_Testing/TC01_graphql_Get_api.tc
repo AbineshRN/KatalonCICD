@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01_graphql_Get_api</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e7188673-5ecc-4216-9573-37b2c4e2c97b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a7dd0596-c212-42ac-81e4-6f9626ae30cb</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>75b799ef-1c12-4709-9e8f-687ca0d00870</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e0685799-ac00-4e48-a37d-1c3dd9b7f2b4</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>14d8e91f-aa68-4c13-99b3-3efa71723e9c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'graphQL'</defaultValue>
+      <description></description>
+      <id>a7dd0596-c212-42ac-81e4-6f9626ae30cb</id>
+      <masked>false</masked>
+      <name>graphQL</name>
+   </variable>
+   <variable>
+      <defaultValue>'apiBaseUrl'</defaultValue>
+      <description></description>
+      <id>75b799ef-1c12-4709-9e8f-687ca0d00870</id>
+      <masked>false</masked>
+      <name>apiBaseUrl</name>
+   </variable>
+   <variable>
+      <defaultValue>'Include/Data Files/MasterSchema.json'</defaultValue>
+      <description></description>
+      <id>e0685799-ac00-4e48-a37d-1c3dd9b7f2b4</id>
+      <masked>false</masked>
+      <name>schemaFilePath</name>
+   </variable>
+   <variable>
+      <defaultValue>'Include/Data Files/login_data.json'</defaultValue>
+      <description></description>
+      <id>14d8e91f-aa68-4c13-99b3-3efa71723e9c</id>
+      <masked>false</masked>
+      <name>JsonFilePath</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Blogs</name>
+   <tag></tag>
+   <elementGuidId>b40f4f53-34a4-4fd3-8e7e-ef347940b61d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='widget-navbar-217834']/ul/li[3]/a/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Blog&quot;s]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1f5b3948-caa4-45da-9985-082c11d9b7fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>title</value>
+      <webElementGuid>419df071-eba3-4a3b-a41a-26e1644e4cb2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Blog
+</value>
+      <webElementGuid>622d1112-a91f-4a42-8135-b3dcf220eb34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;widget-navbar-217834&quot;)/ul[@class=&quot;navbar-nav horizontal&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;icon-left both nav-link&quot;]/div[@class=&quot;info&quot;]/span[@class=&quot;title&quot;]</value>
+      <webElementGuid>2c8c6de6-64da-45b2-ad55-bb21ed78bc76</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='widget-navbar-217834']/ul/li[3]/a/div/span</value>
+      <webElementGuid>f6b11b07-dd5c-4c62-a1d4-3373cd0d7a79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hot'])[2]/following::span[1]</value>
+      <webElementGuid>a2e9ef41-bca4-4ae8-96d4-e39968404950</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Special'])[2]/following::span[2]</value>
+      <webElementGuid>fa16d5e5-d591-4ed3-b685-13d92ce9c433</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mega Menu'])[1]/preceding::span[1]</value>
+      <webElementGuid>ee1c6ef8-ee86-4322-af82-4f2dc1e16a22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mobiles'])[1]/preceding::span[2]</value>
+      <webElementGuid>7d51c2a4-4b3d-4a24-b012-99fbbfd63f5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/nav/div/ul/li[3]/a/div/span</value>
+      <webElementGuid>b6c51049-f953-4cec-93b6-c074d9c2b9cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Blog
+' or . = ' Blog
+')]</value>
+      <webElementGuid>43aff7d6-a55b-4e79-87ea-a54578d860f7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

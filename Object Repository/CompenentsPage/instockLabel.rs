@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>instockLabel</name>
+   <tag></tag>
+   <elementGuidId>738f88ab-2d88-4744-aaaa-8b0156282c9b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mz-filter-panel-0-5']/div/div/div/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#mz-filter-panel-0-5 > div.mz-filter-group-content.more > div.mz-filter-value > div.custom-control.custom-checkbox > label.custom-control-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#mz-filter-panel-0-5 >> internal:text=&quot;In stock&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>4910b5b2-07f1-433d-b4c9-317f51ebb255</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>mz-fss-0--1</value>
+      <webElementGuid>ab9296ab-f5bb-4d6d-8d25-a08c90f58c5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>custom-control-label</value>
+      <webElementGuid>f334d62a-9746-4fa0-9b2f-8e2be98ee7e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>In stock</value>
+      <webElementGuid>8da1509c-cf91-477f-8de4-026443bd2d1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mz-filter-panel-0-5&quot;)/div[@class=&quot;mz-filter-group-content more&quot;]/div[@class=&quot;mz-filter-value&quot;]/div[@class=&quot;custom-control custom-checkbox&quot;]/label[@class=&quot;custom-control-label&quot;]</value>
+      <webElementGuid>bbdb796c-7644-4857-9d0e-00376820e44a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mz-filter-panel-0-5']/div/div/div/label</value>
+      <webElementGuid>bcdef24c-a0eb-48c8-9410-d33c77c175c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Availability'])[2]/following::label[1]</value>
+      <webElementGuid>529050bb-054c-44bf-919e-c2a0897f9227</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Color'])[2]/following::label[9]</value>
+      <webElementGuid>174477d2-2c78-46ae-9d70-d76f27afd3a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Out Of Stock'])[2]/preceding::label[1]</value>
+      <webElementGuid>2ed8e346-069f-4906-b08d-014a813cd688</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pre-Order'])[2]/preceding::label[3]</value>
+      <webElementGuid>1cd5c520-bed3-4737-a583-65ecc3f76b47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[6]/div[2]/div/div/div/label</value>
+      <webElementGuid>e803f476-39e2-4a30-a41c-a7043a7198ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'In stock' or . = 'In stock')]</value>
+      <webElementGuid>b1c8fe37-7eac-422c-8a9e-275619caf9b6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

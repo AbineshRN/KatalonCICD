@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>graphql_Put_api</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>809e6d31-dea6-4892-8fa7-3804ad5ea5d0</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>394731c2-d86f-4fa7-b5ec-93d5acf77fc9</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6f8ae024-e8d8-4b54-8631-89b366385d66</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4331986a-3b77-423a-9ce0-90c124d3add9</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'graphQL'</defaultValue>
+      <description></description>
+      <id>394731c2-d86f-4fa7-b5ec-93d5acf77fc9</id>
+      <masked>false</masked>
+      <name>graphQL</name>
+   </variable>
+   <variable>
+      <defaultValue>'apiBaseUrl'</defaultValue>
+      <description></description>
+      <id>6f8ae024-e8d8-4b54-8631-89b366385d66</id>
+      <masked>false</masked>
+      <name>apiBaseUrl</name>
+   </variable>
+   <variable>
+      <defaultValue>'Include/Data Files/MasterSchema.json'</defaultValue>
+      <description></description>
+      <id>4331986a-3b77-423a-9ce0-90c124d3add9</id>
+      <masked>false</masked>
+      <name>schemaFilePath</name>
+   </variable>
+</TestCaseEntity>

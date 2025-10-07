@@ -1,0 +1,194 @@
+{
+      "postResponse": {
+      	  "$schema": "http://json-schema.org/draft-07/schema#",
+		  "type": "object",
+		  "properties": {
+		    "id": {
+		      "type": "string"
+		    },
+		    "email": {
+		      "type": "string",
+		      "format": "email"
+		    },
+		    "password": {
+		      "type": "string"
+		    },
+		    "verification_text": {
+		      "type": "string"
+		    }
+		  },
+		  "required": [
+		    "id",
+		    "email",
+		    "password",
+		    "verification_text"
+		  ]
+    },
+    "patchResponse": {
+			"$schema": "http://json-schema.org/draft-07/schema#",
+			"type": "object",
+			"required": ["password"],
+			"properties": {
+			    "password": {
+			    "type": "string",
+			    "minLength": 8,
+			    "pattern": "^(?=.*[A-Z])(?=.*[a-z])(?=.*\\d)(?=.*[@$!%*?&])[A-Za-z\\d@$!%*?&]+$",
+				"description": "Password must contain uppercase, lowercase, number, and special character"
+			}
+		}
+  	},
+    "accessTokenSchema": {
+		  "$schema": "http://json-schema.org/draft-07/schema#",
+		  "title": "AccessTokenResponse",
+		  "type": "object",
+		  "required": [
+		    "accessToken",
+		    "refreshToken",
+		    "id",
+		    "username",
+		    "email",
+		    "firstName",
+		    "lastName",
+		    "gender",
+		    "image"
+		  ],
+		  "properties": {
+		    "accessToken": {
+		      "type": "string"
+		    },
+		    "refreshToken": {
+		      "type": "string"
+		    },
+		    "id": {
+		      "type": "integer"
+		    },
+		    "username": {
+		      "type": "string"
+		    },
+		    "email": {
+		      "type": "string",
+		      "format": "email"
+		    },
+		    "firstName": {
+		      "type": "string"
+		    },
+		    "lastName": {
+		      "type": "string"
+		    },
+		    "gender": {
+		      "type": "string",
+		      "enum": ["male", "female", "other"]
+		    },
+		    "image": {
+		      "format": "uri"
+		    }
+		}
+	},
+	"graphQL_GET":{
+		"$schema": "http://json-schema.org/draft-07/schema#",
+		"title": "PostResponse",
+		"type": "object",
+		"properties": {
+			"data": {
+			"type": "object",
+			"properties": {
+				"post": {
+				"type": "object",
+				"properties": {
+					"id": {
+					"type": "string"
+					},
+					"title": {
+					"type": "string"
+					},
+					"body": {
+					"type": "string"
+					}
+				},
+				"required": [
+					"id",
+					"title",
+					"body"
+				]
+				}
+			},
+			"required": [
+				"post"
+			]
+			}
+		},
+		"required": [
+			"data"
+		]
+	},
+	"graphQL_Patch": {
+		  "$schema": "http://json-schema.org/draft-07/schema#",
+		  "title": "UpdatePostResponse",
+		  "type": "object",
+		  "properties": {
+		    "data": {
+		      "type": "object",
+		      "properties": {
+		        "updatePost": {
+		          "type": "object",
+		          "properties": {
+		            "id": {
+		              "type": "string"
+		            },
+		            "title": {
+		              "type": "string"
+		            }
+		          },
+		          "required": [
+		            "id",
+		            "title"
+		          ]
+		        }
+		      },
+		      "required": [
+		        "updatePost"
+		      ]
+		    }
+		  },
+		  "required": [
+		    "data"
+		  ]
+	},
+	"graphQL_Post":{
+		  "$schema": "http://json-schema.org/draft-07/schema#",
+		  "title": "CreatePostResponse",
+		  "type": "object",
+		  "properties": {
+		    "data": {
+		      "type": "object",
+		      "properties": {
+		        "createPost": {
+		          "type": "object",
+		          "properties": {
+		            "id": {
+		              "type": "string"
+		            },
+		            "title": {
+		              "type": "string"
+		            },
+		            "body": {
+		              "type": "string"
+		            }
+		          },
+		          "required": [
+		            "id",
+		            "title",
+		            "body"
+		          ]
+		        }
+		      },
+		      "required": [
+		        "createPost"
+		      ]
+		    }
+		  },
+		  "required": [
+		    "data"
+		  ]
+	}
+}

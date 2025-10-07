@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>components</name>
+   <tag></tag>
+   <elementGuidId>339deda6-4a2b-4614-a99f-248db6274596</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='widget-navbar-217841']/ul/li/a/div[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Components&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c473a220-e074-4ee0-aee2-d27b458beeea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>title</value>
+      <webElementGuid>d06db07f-0819-4b10-ba40-1d71b8b3e1f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Components
+</value>
+      <webElementGuid>43b69852-625c-4d24-9ae2-0f08d225df79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;widget-navbar-217841&quot;)/ul[@class=&quot;navbar-nav vertical&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;icon-left both nav-link&quot;]/div[@class=&quot;info&quot;]/span[@class=&quot;title&quot;]</value>
+      <webElementGuid>7e69d2ee-0125-48e6-a3c3-85b55bc64592</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='widget-navbar-217841']/ul/li/a/div[2]/span</value>
+      <webElementGuid>29704350-3bbd-4a06-b3bf-395dd8686163</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Top categories'])[1]/following::span[1]</value>
+      <webElementGuid>0e426bec-e888-4418-8a75-bafa1b68f3c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cameras'])[1]/preceding::span[1]</value>
+      <webElementGuid>8307d557-e97d-48ea-98e9-174d314047a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phone, Tablets &amp; Ipod'])[1]/preceding::span[2]</value>
+      <webElementGuid>c6cb04f6-76e9-485c-a89f-08f2f7bf3f6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Components']/parent::*</value>
+      <webElementGuid>bfa555e8-3c9d-4540-b23c-2b207a827636</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>1c20ab61-9dd4-4ccc-86a0-eca32a481a1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Components
+' or . = ' Components
+')]</value>
+      <webElementGuid>d815cd03-89f0-4d9f-a0a2-c52654f2787e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

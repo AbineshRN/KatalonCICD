@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>orderErrorOption</name>
+   <tag></tag>
+   <elementGuidId>99c10e50-60a7-4a43-925d-9e083e3e8e90</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/form/fieldset[2]/div[4]/div/div[3]/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Order Error&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>a8445c03-2e83-446c-a0fc-0fa44f6f64d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Order Error</value>
+      <webElementGuid>9e7fa121-a189-4c08-98f1-4e859a227ace</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/form[@class=&quot;mb-4&quot;]/fieldset[2]/div[@class=&quot;form-group row required&quot;]/div[@class=&quot;col-sm-10&quot;]/div[@class=&quot;form-check&quot;]/label[1]</value>
+      <webElementGuid>60ce7aea-febd-4b4a-88dc-71305a901cb2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/form/fieldset[2]/div[4]/div/div[3]/label</value>
+      <webElementGuid>f4d8a365-4bcc-4450-973c-a49d51ba947f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Faulty, please supply details'])[1]/following::label[1]</value>
+      <webElementGuid>7d882249-9c24-4335-aa1e-f525851b9b59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dead On Arrival'])[1]/following::label[2]</value>
+      <webElementGuid>8d85b57f-7623-47e7-b016-faffaa4f408d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Other, please supply details'])[1]/preceding::label[1]</value>
+      <webElementGuid>8d2cbde1-2166-4f93-b726-9d9f613bbc34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Received Wrong Item'])[1]/preceding::label[2]</value>
+      <webElementGuid>ad1a46c7-2d43-4605-b2c4-a50887213d02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Order Error']/parent::*</value>
+      <webElementGuid>2cb62833-f2cf-4aea-bf4f-ba7feccd9ef7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[3]/label</value>
+      <webElementGuid>18885e25-56a0-45a0-a97b-bbf267cff02c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = ' Order Error' or . = ' Order Error')]</value>
+      <webElementGuid>34f49c62-7202-4925-8184-677021b63473</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC04_getAccessToken_Api</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6e5fcc58-955f-4fb6-a4a9-5a536e8b5669</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ef8f265a-33ec-41cc-88ea-b3702c815841</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4fcac161-7c8b-4319-8aba-2d54c4f50bd9</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c8cce562-2056-4431-9275-bab09c1bf047</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ab49e535-a99c-4015-af7b-c07b0a84fe1a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Include/Data Files/login_data.json'</defaultValue>
+      <description></description>
+      <id>ef8f265a-33ec-41cc-88ea-b3702c815841</id>
+      <masked>false</masked>
+      <name>jsonFilePath</name>
+   </variable>
+   <variable>
+      <defaultValue>'Include/Data Files/MasterSchema.json'</defaultValue>
+      <description></description>
+      <id>4fcac161-7c8b-4319-8aba-2d54c4f50bd9</id>
+      <masked>false</masked>
+      <name>masterSchemaFilePath</name>
+   </variable>
+   <variable>
+      <defaultValue>'accessTokenUrl'</defaultValue>
+      <description></description>
+      <id>c8cce562-2056-4431-9275-bab09c1bf047</id>
+      <masked>false</masked>
+      <name>accessToken</name>
+   </variable>
+   <variable>
+      <defaultValue>'apiBaseUrl'</defaultValue>
+      <description></description>
+      <id>ab49e535-a99c-4015-af7b-c07b0a84fe1a</id>
+      <masked>false</masked>
+      <name>apiBaseUrl</name>
+   </variable>
+</TestCaseEntity>

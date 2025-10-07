@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>changePassword</name>
+   <tag></tag>
+   <elementGuidId>d9aecd6d-81b9-46bf-9471-74141327273e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;content&quot;)/div[@class=&quot;card mb-3&quot;]/div[@class=&quot;card-body text-center&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-6 col-sm-4 col-lg-2_4&quot;]/a[@class=&quot;d-inline-flex text-decoration-none text-reset flex-column my-3&quot;]/i[@class=&quot;fas fa-2x mb-1 fa-key&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fas.fa-2x.mb-1.fa-key</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/div/div/div/div[2]/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot; Change your password&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>3a95875e-0cfe-43c4-855b-ee2406054de2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-2x mb-1 fa-key</value>
+      <webElementGuid>077d040f-fa0f-42cb-a784-31679b7007fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;card mb-3&quot;]/div[@class=&quot;card-body text-center&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-6 col-sm-4 col-lg-2_4&quot;]/a[@class=&quot;d-inline-flex text-decoration-none text-reset flex-column my-3&quot;]/i[@class=&quot;fas fa-2x mb-1 fa-key&quot;]</value>
+      <webElementGuid>9f454f58-09d3-4cd4-92cf-8f873a0c4f1e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/div/div/div/div[2]/a/i</value>
+      <webElementGuid>6c86e175-96c5-4893-9b5b-ebfb896b6524</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/div/div[2]/a/i</value>
+      <webElementGuid>d495e7f9-dfd3-4630-bbd7-ca08d4585abd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
